@@ -2,6 +2,7 @@
 
 // put function declarations here:
 int pin = A4;
+int redLED = 9;
 int readings = 0;
 float volts;
 String lowVoltage = "you have a low voltage of";
@@ -17,6 +18,8 @@ void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
   pinMode(pin, INPUT);
+  pinMode(redLED, OUTPUT);
+
 }
 
 void loop() {
@@ -27,11 +30,15 @@ void loop() {
 
 
 
-   if (volts < 2.00) {
+   if (volts < 2.50) {
 
     Serial.println(lowVoltage + " " + volts);
-   }   else if (volts > 2.00) {
+
+    digitalWrite(redLED, LOW);
+   }   else if (volts > 2.50) {
     Serial.println(highVoltage + " " + volts);
+
+    digitalWrite(redLED, HIGH);
 
    };
    delay(1200);
