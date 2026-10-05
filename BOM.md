@@ -19,7 +19,7 @@
 | [LM2596 LM2596S power module + LED Voltmeter DC-DC adjustable step-down power supply module with digital display](https://www.aliexpress.com/item/1005005732547374.html?mp=1&pdp_npi=6%40dis%21NGN%21NGN+1758.90%21NGN+1284.00%21%21NGN+1284.00%21%21%21%402103973d17911583617258987e1260%2112000034148912170%21ct%21NG%218335485199%21%211%210%21) | To step down the voltage of the system | 1 | $0.97 | $0.97 | [AliExpress](https://www.aliexpress.com/item/1005005732547374.html?mp=1&pdp_npi=6%40dis%21NGN%21NGN+1758.90%21NGN+1284.00%21%21NGN+1284.00%21%21%21%402103973d17911583617258987e1260%2112000034148912170%21ct%21NG%218335485199%21%211%210%21) |
 | [1.5V-6V 0.3A 16000RPM Mini DC Motor Micro DC Motor for DIY Toys Hobbies Smart Car MOTOR 130 Small Motor](https://www.aliexpress.com/item/1005007670913582.html?mp=1&pdp_npi=6%40dis%21NGN%21NGN+659.71%21NGN+606.58%21%21NGN+594.40%21%21%21%4021038db317911586545122487e13b3%2112000041733110219%21ct%21NG%218335485199%21%212%210%21) | ... | 2 | $0.46 | $0.92 | [AliExpress](https://www.aliexpress.com/item/1005007670913582.html?mp=1&pdp_npi=6%40dis%21NGN%21NGN+659.71%21NGN+606.58%21%21NGN+594.40%21%21%21%4021038db317911586545122487e13b3%2112000041733110219%21ct%21NG%218335485199%21%212%210%21) |
 | **Parts subtotal** | — | — | — | **$25.30** | — |
-| **Tax & shipping** | — | — | — | **$7.39** | — |
-| **Total** | — | — | — | **$32.69** | — |
+| **Tax & shipping** | — | — | — | **$2.30** | — |
+| **Total** | — | — | — | **$27.60** | — |
 
-**$2.69 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$2.40 left of the tier's funding.
